@@ -38,4 +38,4 @@ Genel Nitelikler
 * Üniversitelerin ilgili bölümlerinden mezun.
 * Takım çalışmasına yatkın.
 
-CV'leriniz için mailto:emir.cokdogan@egebimtes.com.tr adresinden iletişime geçebilirsiniz.
+CV'leriniz için [emir.cokdogan@egebimtes.com.tr](mailto:emir.cokdogan@egebimtes.com.tr) adresinden iletişime geçebilirsiniz.
