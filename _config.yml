@@ -1,6 +1,6 @@
 # main text of home
 name: Emir Çokdoğan
-bio: Hungry Developer
+bio: Passionate software developer, tech enabler and forever learner.
 
 # twitter summary info
 description: A blog about software development and stuff related
@@ -22,7 +22,7 @@ url: https://emircokdogan.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-97463204-1'
+analytics-google: "UA-97463204-1"
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -30,8 +30,8 @@ analytics-google: 'UA-97463204-1'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: emircokdogan-com # enter this from your disqus account
-  categories: [blog, project, tech] # only show disqus for posts that have these categories
+    shortname: emircokdogan-com # enter this from your disqus account
+    categories: [blog, project, tech] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: emircokdogan
@@ -39,25 +39,25 @@ twitter: emircokdogan
 # google: mygoogle
 instagram: emircokdogan
 # pinterest: mypinterest
-linkedin: emir-çokdoğan-10a5b895
+linkedin: emircokdogan
 # youtube: myyoutube
 # spotify: myspotify
 github: emircokdogan
 # lastfm: mylastfm
-stackoverflow: 2641259/emir-Ç
+# stackoverflow: 2641259/emir-Ç
 # quora: userquora
 # reddit: username
-# medium: medium
+medium: emircokdogan
 # vimeo: myvimeo
 email: emircokdogan@gmail.com
 
 authors:
     emircokdogan:
-        name: Emir Çokodğan
+        name: Emir Çokdoğan
         bio: Hungry Developer
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: emircokdogan    
+        twitter: emircokdogan
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -69,7 +69,7 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
@@ -93,10 +93,10 @@ show-author: true
 # do you want some animations?
 animation: true
 
-gems:
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-feed
+plugins:
+    - jekyll-seo-tag
+    - jekyll-gist
+    - jekyll-feed
 
 jekyll-mentions:
     base_url: https://github.com
