@@ -1,5 +1,5 @@
 # main text of home
-name: Emir Çokdoğan
+name: Emir Cokdogan
 bio: Passionate software developer, tech enabler and forever learner.
 
 # twitter summary info
@@ -53,7 +53,7 @@ email: emircokdogan@gmail.com
 
 authors:
     emircokdogan:
-        name: Emir Çokdoğan
+        name: Emir Cokdogan
         bio: Hungry Developer
         external-image: false
         picture: assets/images/profile.jpg
